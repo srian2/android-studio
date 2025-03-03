@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "682382903557",
+    "firebase_url": "https://individualkotlin-default-rtdb.firebaseio.com",
+    "project_id": "individualkotlin",
+    "storage_bucket": "individualkotlin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682382903557:android:43e72e3b1058d409b6cf6c",
+        "android_client_info": {
+          "package_name": "com.example.kotlinproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR1pyqnWPA2zj4RNyVyi82C7vBX2WjZXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682382903557:android:c338ce4be0fa532fb6cf6c",
+        "android_client_info": {
+          "package_name": "com.example.shoppy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR1pyqnWPA2zj4RNyVyi82C7vBX2WjZXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

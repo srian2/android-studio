@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="btnclr">#2196F3</color>
+
+
+    <!-- Primary Colors -->
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <!-- Secondary Colors -->
+    <color name="colorSecondary">#018786</color>
+    <color name="colorSecondaryDark">#00574B</color>
+
+    <!-- Text Colors -->
+    <color name="colorTextPrimary">#212121</color> <!-- Dark Gray -->
+    <color name="colorTextSecondary">#757575</color> <!-- Light Gray -->
+    <color name="colorError">#B00020</color> <!-- Red -->
+
+    <!-- Background Colors -->
+    <color name="colorBackground">#FFFFFF</color> <!-- White -->
+    <color name="colorSurface">#F5F5F5</color> <!-- Light Gray -->
+
+    <!-- Button Colors -->
+    <color name="colorButton">#03A9F4</color> <!-- Light Blue -->
+    <color name="colorButtonText">#FFFFFF</color> <!-- White -->
+
+    <!-- Stroke and Focus Colors -->
+    <color name="colorStroke">#6200EE</color> <!-- Purple -->
+    <color name="colorFocused">#FF5722</color> <!-- Orange -->
+
+    <!-- Custom Hues -->
+    <color name="colorLightBlue">#81D4FA</color>
+    <color name="colorDarkBlue">#0D47A1</color>
+    <color name="colorLightGreen">#A5D6A7</color>
+    <color name="colorDarkGreen">#2E7D32</color>
+    <color name="colorGray">#BDBDBD</color>
+
+
+    <color name="teal_700">#018786</color>
+
+
+
+</resources>
